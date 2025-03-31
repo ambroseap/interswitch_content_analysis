@@ -2,7 +2,7 @@
 # 𝗜𝗻𝘁𝗲𝗿𝘀𝘄𝗶𝘁𝗰𝗵'𝘀 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: 𝗝𝗮𝗻 – 𝗠𝗮𝗿 𝟮𝟲, 𝟮𝟬𝟮𝟱
 
 
-## content with most used words
+## most used words in content
 
 ![mostusedword](https://github.com/user-attachments/assets/f8dd474c-296a-4926-99ee-325210b50136)
 
