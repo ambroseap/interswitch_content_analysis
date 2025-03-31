@@ -1,11 +1,15 @@
-# interswitch_content_analysis
-𝗜𝗻𝘁𝗲𝗿𝘀𝘄𝗶𝘁𝗰𝗵'𝘀 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: 𝗝𝗮𝗻 – 𝗠𝗮𝗿 𝟮𝟲, 𝟮𝟬𝟮𝟱
 
-##content with most used words
+# 𝗜𝗻𝘁𝗲𝗿𝘀𝘄𝗶𝘁𝗰𝗵'𝘀 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: 𝗝𝗮𝗻 – 𝗠𝗮𝗿 𝟮𝟲, 𝟮𝟬𝟮𝟱
+
+
+## content with most used words
+
 ![mostusedword](https://github.com/user-attachments/assets/f8dd474c-296a-4926-99ee-325210b50136)
 
-##most used hashtag
+## most used hashtag
+
 ![mostusedhashtag](https://github.com/user-attachments/assets/5dbedaba-8b15-4d04-ae7b-67b320a17146)
+
 
 Driven by curiosity, I decided to analyze Interswitch’s LinkedIn posts from the beginning of the year until March 26, 2025. My goal? To uncover what they value most or what their value are based on their content. Here's what I found…
 
